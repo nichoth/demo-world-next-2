@@ -1,0 +1,29 @@
+{
+  "name": "demo-world-next-2",
+  "description": "Doing what it says here: https://www.smashingmagazine.com/2020/10/getting-started-with-next-js/",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "start": "next start",
+    "build": "next build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "next": "^10.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nichoth/demo-world-next-2.git"
+  },
+  "author": "Nick Thomas <nichoth@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nichoth/demo-world-next-2/issues"
+  },
+  "homepage": "https://github.com/nichoth/demo-world-next-2#readme"
+}
